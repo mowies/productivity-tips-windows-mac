@@ -59,6 +59,8 @@ A list of tips and tricks, tools, utilities, etc. that make you more productive 
 |---|---|
 | Window snapping like on Windows | [Rectangle](https://rectangleapp.com/) <br/> [Magnet](https://apps.apple.com/gb/app/magnet/id441258766) |
 | Visualize disk space usage | [GrandPerspective](http://grandperspectiv.sourceforge.net/) |
+| TimeMachine | It's already on your Mac :) |
+| Mute your notifications while presenting in an online meeting | [Muzzle](https://muzzleapp.com/) |
 
 ### Windows
 | Topic | Link |
@@ -67,4 +69,10 @@ A list of tips and tricks, tools, utilities, etc. that make you more productive 
 | Install lots of well known programs with one installer | [Ninite](https://ninite.com/) |
 | Advanced wallpaper customization | [DisplayFusion](https://www.displayfusion.com/) |
 | Control audio of all your apps independently | [EarTrumpet](https://eartrumpet.app/) |
-| Collection of useful tools by Microsoft | [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) |
+| Collection of useful tools by Microsoft (for advanced users) | [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) |
+| Free backup software | [EaseUs ToDo Backup Free](https://www.easeus.com/backup-software/tb-free.html) [Download](https://down.easeus.com/product/tb_free) |
+
+### Miscellaneous
+| Topic | Link |
+| --- | --- |
+| Password Managers | Cloud: [LastPass](https://www.lastpass.com/), [1Password](https://1password.com/) <br/> Local: [KeePass](https://keepass.info/) |
