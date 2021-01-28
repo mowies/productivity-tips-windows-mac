@@ -38,6 +38,18 @@ A list of tips and tricks, tools, utilities, etc. that make you more productive 
 | <kbd>Alt</kbd> <kbd>Enter</kbd> | | Switch between fullscreen and windowed mode |
 | <kbd>Shift</kbd> <kbd>Arrow keys</kbd> | <kbd>Shift</kbd> <kbd>Arrow keys</kbd> | Select multiple characters |
 |||
+| | **Chrome (and other browsers)** | |
+| Mousewheel click or <kbd>Ctrl</kbd> click | Mousewheel click or <kbd>Cmd</kbd> click | Open link in new tab |
+| <kbd>Alt</kbd> <kbd>←</kbd> | <kbd>Cmd</kbd> <kbd>←</kbd> | Go back |
+| <kbd>Alt</kbd> <kbd>→</kbd> | <kbd>Cmd</kbd> <kbd>→</kbd> | Go forward |
+| <kbd>Ctrl</kbd> <kbd>J</kbd> | <kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>J</kbd> | Open downloads |
+| <kbd>Ctrl</kbd> <kbd>L</kbd> | <kbd>Cmd</kbd> <kbd>L</kbd> | Go to address bar |
+| <kbd>Ctrl</kbd> <kbd>Tab</kbd> | <kbd>Ctrl</kbd> <kbd>Tab</kbd> | Switch to next tab |
+| <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>Tab</kbd> | <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>Tab</kbd> | Switch to previous tab |
+| <kbd>Ctrl</kbd> <kbd>number key</kbd> | <kbd>Ctrl</kbd> <kbd>number key</kbd> | Switch to tab number X |
+| <kbd>Ctrl</kbd> <kbd>N</kbd> | <kbd>Cmd</kbd> <kbd>N</kbd> | Open new window |
+| <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>N</kbd> | <kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>N</kbd> | Open new incognito window |
+|||
 | | **Virtual desktops** |
 | <kbd>Win</kbd> <kbd>Ctrl</kbd> <kbd>D</kbd> | <kbd>Ctrl</kbd> <kbd>↑</kbd> then press the + icon | Create new virtual desktop |
 | <kbd>Win</kbd> <kbd>Ctrl</kbd> <kbd>F4</kbd> | <kbd>Ctrl</kbd> <kbd>↑</kbd> then press the x icon | Close virtual desktop |
@@ -76,3 +88,4 @@ A list of tips and tricks, tools, utilities, etc. that make you more productive 
 | Topic | Link |
 | --- | --- |
 | Password Managers | Cloud: [LastPass](https://www.lastpass.com/), [1Password](https://1password.com/) <br/> Local: [KeePass](https://keepass.info/) |
+| You can have browser bookmarks with no name so that only the icon is shown ||
