@@ -28,7 +28,7 @@ A list of tips and tricks, tools, utilities, etc. that make you more productive 
 | <kbd>Ctrl</kbd> <kbd>Tab</kbd> | <kbd>Ctrl</kbd> <kbd>Tab</kbd> | Switch to next tab |
 | <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>Tab</kbd> | <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>Tab</kbd> | Switch to previous tab |
 | <kbd>Ctrl</kbd> <kbd>number key</kbd> | <kbd>Ctrl</kbd> <kbd>number key</kbd> | Switch to tab number X |
-| <kbd>F2</kbd> | | Rename |
+| <kbd>F2</kbd> | <kbd>Enter</kbd> | Rename |
 | <kbd>Win</kbd> <kbd>P</kbd> | | Change presentation mode |
 | <kbd>Ctrl</kbd> <kbd>P</kbd> | <kbd>Cmd</kbd> <kbd>P</kbd> | Print |
 | <kbd>Win</kbd> <kbd>L</kbd> | <kbd>Ctrl</kbd> <kbd>Cmd</kbd> <kbd>Q</kbd> | Lock screen |
