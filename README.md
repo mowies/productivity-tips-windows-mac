@@ -40,6 +40,9 @@ A list of tips and tricks, tools, utilities, etc. that make you more productive 
 |||
 | | **Chrome (and other browsers)** | |
 | Mousewheel click or <kbd>Ctrl</kbd> click | Mousewheel click or <kbd>Cmd</kbd> click | Open link in new tab |
+| <kbd>Ctrl</kbd> <kbd>T</kbd> | <kbd>Cmd</kbd> <kbd>T</kbd> | New tab |
+| <kbd>Ctrl</kbd> <kbd>W</kbd> | <kbd>Cmd</kbd> <kbd>W</kbd> | Close current tab |
+| <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>T</kbd> | <kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>T</kbd> | Restore last closed tab |
 | <kbd>Alt</kbd> <kbd>←</kbd> | <kbd>Cmd</kbd> <kbd>←</kbd> | Go back |
 | <kbd>Alt</kbd> <kbd>→</kbd> | <kbd>Cmd</kbd> <kbd>→</kbd> | Go forward |
 | <kbd>Ctrl</kbd> <kbd>J</kbd> | <kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>J</kbd> | Open downloads |
